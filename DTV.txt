@@ -16,6 +16,8 @@
       ソース http://www1.axfc.net/uploader/so/2665362
 
 ・EpgDataCapBon
+    Ver10.66 http://www1.axfc.net/uploader/so/2476603
+    Ver10.69 ｇｇｒ
 
 ・Marumo ISDB Splitter
     ウェブサイト http://www.marumo.ne.jp/
