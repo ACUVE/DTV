@@ -24,6 +24,10 @@
 ・TvtPlay
     Ver2.0 http://www1.axfc.net/uploader/Sc/so/381180
       リリース http://toro.2ch.net/test/read.cgi/avi/1348364114/16
+      
+      Ver2.0改造 チャプターをポップアップメニューから選択してジャンプ
+        http://www1.axfc.net/uploader/Sc/so/387418.zip
+        リリース http://toro.2ch.net/test/read.cgi/avi/1348364114/115-122n
 
 ・TsTimeKeeper
     Ver3.5.16.7 http://www1.axfc.net/uploader/so/2629822
