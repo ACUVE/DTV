@@ -1,67 +1,67 @@
 /*************************************************
-*  DTVŠÖ˜A‚Ü‚Æ‚ß                                 *
+*  DTVé–¢é€£ã¾ã¨ã‚                                 *
 *************************************************/
 
-š‚±‚ê‚Í‰½H
-@DTVŠÖ˜A‚Ìî•ñ‚ª2sen‚Ì•Â½ˆÈ~ŠgU‚µ‚Ä‚µ‚Ü‚Á‚½‚«‚ª‚·‚é‚Ì‚ÅW‚ß
-‚Ä‚İ‚éƒeƒXƒgB
-@‘½‚­‚ÌƒoƒCƒiƒŠ‚ÍgDTVŠÖ˜AƒTƒCƒg‚Ü‚Æ‚ßh’†‚ÌƒTƒCƒg‚©‚çƒ_ƒEƒ“ƒ
-[ƒh‚Å‚«‚Ü‚·‚ªA•Êƒ\[ƒX‚à‚ ‚Á‚½•û‚ª—Ç‚¢‚Æv‚í‚ê‚é‚Ì‚ÅAgTSŠÖ
-˜Aƒ\ƒtƒg‚Ü‚Æ‚ßh‚Å‚Í‚»‚ê‚ç‚ÌƒTƒCƒg‚Å‚È‚¢URL‚É‚µ‚Ä‚ ‚è‚Ü‚·B
+â˜…ã“ã‚Œã¯ä½•ï¼Ÿ
+ã€€DTVé–¢é€£ã®æƒ…å ±ãŒ2senã®é–‰é–ä»¥é™æ‹¡æ•£ã—ã¦ã—ã¾ã£ãŸããŒã™ã‚‹ã®ã§é›†ã‚
+ã¦ã¿ã‚‹ãƒ†ã‚¹ãƒˆã€‚
+ã€€å¤šãã®ãƒã‚¤ãƒŠãƒªã¯â€œDTVé–¢é€£ã‚µã‚¤ãƒˆã¾ã¨ã‚â€ä¸­ã®ã‚µã‚¤ãƒˆã‹ã‚‰ãƒ€ã‚¦ãƒ³ãƒ­
+ãƒ¼ãƒ‰ã§ãã¾ã™ãŒã€åˆ¥ã‚½ãƒ¼ã‚¹ã‚‚ã‚ã£ãŸæ–¹ãŒè‰¯ã„ã¨æ€ã‚ã‚Œã‚‹ã®ã§ã€â€œTSé–¢
+é€£ã‚½ãƒ•ãƒˆã¾ã¨ã‚â€ã§ã¯ãã‚Œã‚‰ã®ã‚µã‚¤ãƒˆã§ãªã„URLã«ã—ã¦ã‚ã‚Šã¾ã™ã€‚
 
-šTSŠÖ˜Aƒ\ƒtƒg‚Ü‚Æ‚ß
-ETVTest
+â˜…TSé–¢é€£ã‚½ãƒ•ãƒˆã¾ã¨ã‚
+ãƒ»TVTest
     Ver0.8.0 http://www1.axfc.net/uploader/so/2637448
     Ver0.7.23 http://www1.axfc.net/uploader/so/2598647
-      ƒ\[ƒX http://www1.axfc.net/uploader/so/2665362
+      ã‚½ãƒ¼ã‚¹ http://www1.axfc.net/uploader/so/2665362
 
-EEpgDataCapBon
+ãƒ»EpgDataCapBon
     Ver10.66 http://www1.axfc.net/uploader/so/2476603
-    Ver10.69 ‚‡‚‡‚’
+    Ver10.69 ï½‡ï½‡ï½’
 
-EMarumo ISDB Splitter
-    ƒEƒFƒuƒTƒCƒg http://www.marumo.ne.jp/
+ãƒ»Marumo ISDB Splitter
+    ã‚¦ã‚§ãƒ–ã‚µã‚¤ãƒˆ http://www.marumo.ne.jp/
     Ver0.2.12 http://www.marumo.ne.jp/junk/isdbsplitter-0.2.12.lzh
     
-ETvtPlay
+ãƒ»TvtPlay
     Ver2.0 http://www1.axfc.net/uploader/Sc/so/381180
-      ƒŠƒŠ[ƒX http://toro.2ch.net/test/read.cgi/avi/1348364114/16
+      ãƒªãƒªãƒ¼ã‚¹ http://toro.2ch.net/test/read.cgi/avi/1348364114/16
       
-      Ver2.0‰ü‘¢ ƒ`ƒƒƒvƒ^[‚ğƒ|ƒbƒvƒAƒbƒvƒƒjƒ…[‚©‚ç‘I‘ğ‚µ‚ÄƒWƒƒƒ“ƒv
+      Ver2.0æ”¹é€  ãƒãƒ£ãƒ—ã‚¿ãƒ¼ã‚’ãƒãƒƒãƒ—ã‚¢ãƒƒãƒ—ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‹ã‚‰é¸æŠã—ã¦ã‚¸ãƒ£ãƒ³ãƒ—
         http://www1.axfc.net/uploader/Sc/so/387418.zip
-        ƒŠƒŠ[ƒX http://toro.2ch.net/test/read.cgi/avi/1348364114/115-122n
+        ãƒªãƒªãƒ¼ã‚¹ http://toro.2ch.net/test/read.cgi/avi/1348364114/115-122n
 
-ETVCaptionMod2
+ãƒ»TVCaptionMod2
     Ver1.2 http://www1.axfc.net/uploader/Sc/so/373297
-      ƒŠƒŠ[ƒX http://toro.2ch.net/test/read.cgi/avi/1341073328/153
+      ãƒªãƒªãƒ¼ã‚¹ http://toro.2ch.net/test/read.cgi/avi/1341073328/153
 
-ETsTimeKeeper
+ãƒ»TsTimeKeeper
     Ver3.5.16.7 http://www1.axfc.net/uploader/so/2629822
 
-ETsSplitter
+ãƒ»TsSplitter
     Ver1.28 http://www1.axfc.net/uploader/so/2649991
 
-EEPGƒf[ƒ^ƒrƒ…[ƒA
+ãƒ»EPGãƒ‡ãƒ¼ã‚¿ãƒ“ãƒ¥ãƒ¼ã‚¢
     Ver1.56 http://www1.axfc.net/uploader/so/2661692
 
-EEpgTimer‚ÆmAgicAnime˜AŒgƒLƒbƒg
+ãƒ»EpgTimerã¨mAgicAnimeé€£æºã‚­ãƒƒãƒˆ
     Ver3.6 http://www1.axfc.net/uploader/so/2667186
-      ƒŠƒŠ[ƒX http://toro.2ch.net/test/read.cgi/avi/1351777963/255
+      ãƒªãƒªãƒ¼ã‚¹ http://toro.2ch.net/test/read.cgi/avi/1351777963/255
 
 
-Etsfindpid
+ãƒ»tsfindpid
     http://www1.axfc.net/uploader/so/2641784
-      ƒŠƒŠ[ƒX http://toro.2ch.net/test/read.cgi/avi/1341073328/417
+      ãƒªãƒªãƒ¼ã‚¹ http://toro.2ch.net/test/read.cgi/avi/1341073328/417
 
-Edtvgen
+ãƒ»dtvgen
     http://ux.getuploader.com/PX_W3PE/download/18/up0967.zip
 
-šDiff‚Ü‚Æ‚ß
+â˜…Diffã¾ã¨ã‚
 http://logsoku.com/thread/toro.2ch.net/avi/1352121575/#6
 http://logsoku.com/thread/toro.2ch.net/avi/1352121575/#92
 
-šDTVŠÖ˜AƒTƒCƒg‚Ü‚Æ‚ß
-EDTV•âŠ®Š
+â˜…DTVé–¢é€£ã‚µã‚¤ãƒˆã¾ã¨ã‚
+ãƒ»DTVè£œå®Œæ‰€
     http://www3.wazoku.net/2sen/
-EDTV
+ãƒ»DTV
     http://dtv2ch.297m.com/
