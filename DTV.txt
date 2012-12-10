@@ -32,8 +32,8 @@
     Ver1.28 http://www1.axfc.net/uploader/so/2649991
 
 ・EpgTimerとmAgicAnime連携キット
-    Ver3.5 http://www1.axfc.net/uploader/so/2663829
-      リリース http://toro.2ch.net/test/read.cgi/avi/1341073328/567
+    Ver3.6 http://www1.axfc.net/uploader/so/2667186
+      リリース http://toro.2ch.net/test/read.cgi/avi/1351777963/255
 
 
 ・tsfindpid
