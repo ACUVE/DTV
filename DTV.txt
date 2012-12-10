@@ -3,9 +3,9 @@
 *************************************************/
 
 ★これは何？
-　DTV関連の情報が2senの閉鎖以降拡散してしまったきがするので集め
+  DTV関連の情報が2senの閉鎖以降拡散してしまったきがするので集め
 てみるテスト。
-　多くのバイナリは“DTV関連サイトまとめ”中のサイトからダウンロ
+  多くのバイナリは“DTV関連サイトまとめ”中のサイトからダウンロ
 ードできますが、別ソースもあった方が良いと思われるので、“TS関
 連ソフトまとめ”ではそれらのサイトでないURLにしてあります。
 
@@ -57,11 +57,38 @@
     http://ux.getuploader.com/PX_W3PE/download/18/up0967.zip
 
 ★Diffまとめ
-http://logsoku.com/thread/toro.2ch.net/avi/1352121575/#6
-http://logsoku.com/thread/toro.2ch.net/avi/1352121575/#92
+■TVTest0.8.0
+  ・録画時スクランブル解除
+      http://logsoku.com/thread/toro.2ch.net/avi/1347887793/811
+      http://www2.wazoku.net/2sen/dtvvup/source/dtvengine.diff.txt
+      
+  ・Windows8 Microsoft DTV-DVD Video Decoder有効化
+      http://logsoku.com/thread/toro.2ch.net/avi/1350812775/836
+      http://www2.wazoku.net/2sen/dtvvup/source/mediaviewer.diff.txt
+
+  ・EPG番組表の表示時間帯を日付を変えても引き継ぐ
+      http://www1.axfc.net/uploader/so/2665685
+      http://logsoku.com/thread/toro.2ch.net/avi/1352121575/92
+
+  ・ロゴ更新バグ修正
+      http://logsoku.com/thread/toro.2ch.net/avi/1353575623/217
+
+  ・TvtPlay使用時のデッドロック及び長時間フリーズ回避
+      http://www1.axfc.net/uploader/Sc/so/381174
+      http://logsoku.com/thread/toro.2ch.net/avi/1348364114/17
 
 ★DTV関連サイトまとめ
 ・DTV補完所
     http://www3.wazoku.net/2sen/
 ・DTV
     http://dtv2ch.297m.com/
+・maki rxrz さんのファイル - SkyDrive
+    https://skydrive.live.com/?cid=8658EC275D9699D5
+・mark10als さんのファイル - SkyDrive
+    https://skydrive.live.com/?cid=5F54318BDAE90E64
+
+★謝辞
+  全てのDTV板住民に幸多からん事を。
+
+★ライセンス
+  Public Domain
