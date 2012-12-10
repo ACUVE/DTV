@@ -35,6 +35,9 @@
 ・TsSplitter
     Ver1.28 http://www1.axfc.net/uploader/so/2649991
 
+・EPGデータビューア
+    Ver1.56 http://www1.axfc.net/uploader/so/2661692
+
 ・EpgTimerとmAgicAnime連携キット
     Ver3.6 http://www1.axfc.net/uploader/so/2667186
       リリース http://toro.2ch.net/test/read.cgi/avi/1351777963/255
