@@ -17,7 +17,7 @@
 
 ・EpgDataCapBon
     Ver10.66 http://www1.axfc.net/uploader/so/2476603
-    Ver10.69 ｇｇｒ
+    Ver10.69 http://www1.axfc.net/uploader/H/so/160975 pass:2sen
 
 ・Marumo ISDB Splitter
     ウェブサイト http://www.marumo.ne.jp/
