@@ -83,6 +83,9 @@
 
   ・BonCasClient関連修正
       http://logsoku.com/thread/toro.2ch.net/avi/1353575623/595
+      
+■Diff適用後のハッシュ値メモ
+  http://logsoku.com/thread/toro.2ch.net/avi/1353575623/875
 
 ★DTV関連サイトまとめ
 ・DTV補完所
