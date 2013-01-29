@@ -1,4 +1,4 @@
-/*************************************************
+﻿/*************************************************
 *  DTV関連まとめ                                 *
 *************************************************/
 
@@ -48,6 +48,9 @@
 
 ・EPGデータビューア
     Ver1.56 http://www1.axfc.net/uploader/so/2661692
+
+・ass2chapter
+    Ver0.6 http://www1.axfc.net/uploader/so/2771412.zip pass:DTV
 
 ・EpgTimerとmAgicAnime連携キット
     Ver3.6 http://www1.axfc.net/uploader/so/2667186
