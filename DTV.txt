@@ -33,8 +33,8 @@
       リリース http://toro.2ch.net/test/read.cgi/avi/1330008877/65
       
       rev.13改造 再生対応改造版 修正1
-        http://www1.axfc.net/uploader/so/2763608
-        リリース http://toro.2ch.net/test/read.cgi/avi/1330008877/161
+        http://www1.axfc.net/uploader/so/2784916
+        リリース http://toro.2ch.net/test/read.cgi/avi/1330008877/251
 
 ・TVCaptionMod2
     Ver1.4r2 http://www1.axfc.net/uploader/so/2691006
@@ -53,8 +53,8 @@
     Ver0.6 http://www1.axfc.net/uploader/so/2771412.zip pass:DTV
 
 ・EpgTimerとmAgicAnime連携キット
-    Ver3.6 http://www1.axfc.net/uploader/so/2667186
-      リリース http://toro.2ch.net/test/read.cgi/avi/1351777963/255
+    Ver3.7 http://www1.axfc.net/uploader/so/2783120
+      リリース http://toro.2ch.net/test/read.cgi/avi/1359466905/288
 
 ・BonCasClient2winscard
     http://www1.axfc.net/uploader/so/2710503
@@ -93,6 +93,9 @@
       
 ■Diff適用後のハッシュ値メモ
   http://logsoku.com/thread/toro.2ch.net/avi/1353575623/875
+
+■EpgDataCap_Bon関連
+  ・最近のEpgTimer関連のDiffが全く追えてない
 
 ★DTV関連サイトまとめ
 ・DTV補完所
