@@ -41,8 +41,8 @@
       リリース http://toro.2ch.net/test/read.cgi/avi/1353575623/53
 
 ・TsTimeKeeper
-    Ver3.5.16.9 http://www1.axfc.net/uploader/so/2790416.zip
-      リリース http://toro.2ch.net/test/read.cgi/avi/1358933709/66
+    Ver3.5.16.10 http://www1.axfc.net/uploader/so/2797237.zip
+      リリース http://toro.2ch.net/test/read.cgi/avi/1358933709/83
 
 ・TsSplitter
     Ver1.28 http://www1.axfc.net/uploader/so/2649991
