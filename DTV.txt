@@ -98,6 +98,8 @@
 ■EpgDataCap_Bon関連
   ・最近のEpgTimer関連のDiffが全く追えてない
     https://github.com/epgdatacapbon/EDCB 辺りを見ればいい？
+  ・4月13日（土）　EDCB 人柱版 10.69 の自動削除に関して
+    http://www.marumo.ne.jp/db2013_4.htm#13
 
 ★DTV関連サイトまとめ
 ・DTV補完所
