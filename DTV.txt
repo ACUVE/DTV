@@ -1,4 +1,4 @@
-﻿/*************************************************
+/*************************************************
 *  DTV関連まとめ                                 *
 *************************************************/
 
@@ -18,11 +18,12 @@
 
 ・Marumo ISDB Splitter
     ウェブサイト http://www.marumo.ne.jp/
-    Ver0.2.17 http://www.marumo.ne.jp/junk/isdbsplitter-0.2.17.lzh
+    Ver0.2.19 http://www.marumo.ne.jp/junk/isdbsplitter-0.2.19.lzh
     
 ・TvtPlay
     Ver2.0 http://www1.axfc.net/uploader/Sc/so/381180
       リリース http://toro.2ch.net/test/read.cgi/avi/1348364114/16
+      GitHub: https://github.com/xtne6f/TvtPlay
       
       Ver2.0改造 チャプターをポップアップメニューから選択してジャンプ
         http://www1.axfc.net/uploader/Sc/so/387418.zip
@@ -37,8 +38,8 @@
         リリース http://toro.2ch.net/test/read.cgi/avi/1330008877/340
 
 ・TVCaptionMod2
-    Ver1.4r2 http://www1.axfc.net/uploader/so/2691006
-      リリース http://toro.2ch.net/test/read.cgi/avi/1353575623/53
+    Ver1.6r2 http://www1.axfc.net/uploader/so/2926591
+      リリース http://www.logsoku.com/r/avi/1370037105/240
 
 ・TsTimeKeeper
     Ver3.5.17.1 http://www1.axfc.net/uploader/so/2836462.zip
@@ -68,8 +69,20 @@
 ・dtvgen
     http://ux.getuploader.com/PX_W3PE/download/18/up0967.zip
 
+・TTRec
+    Ver1.0 http://www1.axfc.net/uploader/so/2951428
+      リリース http://www.logsoku.com/r/avi/1370037105/953
+
+・tsrenamec
+    http://www1.axfc.net/uploader/so/278070&key=capusb
+
 ★Diffまとめ
 ■TVTest0.8.0関連
+  ・まとめ
+      http://www.logsoku.com/r/avi/1370037105/93
+
+  ・以下はメンテナンス出来ないので参考程度に
+<!--
   ・録画時スクランブル解除
       http://logsoku.com/thread/toro.2ch.net/avi/1347887793/811
       http://www2.wazoku.net/2sen/dtvvup/source/dtvengine.diff.txt
@@ -91,6 +104,7 @@
 
   ・BonCasClient関連修正
       http://logsoku.com/thread/toro.2ch.net/avi/1353575623/595
+-->
       
 ■Diff適用後のハッシュ値メモ
   http://logsoku.com/thread/toro.2ch.net/avi/1353575623/875
@@ -98,8 +112,21 @@
 ■EpgDataCap_Bon関連
   ・最近のEpgTimer関連のDiffが全く追えてない
     https://github.com/epgdatacapbon/EDCB 辺りを見ればいい？
+    最近は色々とブランチができている模様
   ・4月13日（土）　EDCB 人柱版 10.69 の自動削除に関して
     http://www.marumo.ne.jp/db2013_4.htm#13
+
+■NicoJK関連
+  ・JikkyoRec
+      http://d.hatena.ne.jp/modalblue/20130119
+  ・Jikkyorec & NicoJK用ユーティリティソフト
+      http://blog.livedoor.jp/p76bg39/
+  ・tvrock.schをReserve.txtっぽく変換するスクリプト
+      http://toro.2ch.net/test/read.cgi/avi/1330008877/184
+  ・実況コメダウンロードスクリプト
+      http://toro.2ch.net/test/read.cgi/avi/1330008877/616
+  ・自動ダウンロードスクリプト
+      http://toro.2ch.net/test/read.cgi/avi/1330008877/629
 
 ★DTV関連サイトまとめ
 ・DTV補完所
