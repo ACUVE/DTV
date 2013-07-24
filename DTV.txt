@@ -29,13 +29,13 @@
         http://www1.axfc.net/uploader/Sc/so/387418.zip
         リリース http://toro.2ch.net/test/read.cgi/avi/1348364114/115-122n
 
-・NikoJK
+・NicoJK
     rev.13 https://github.com/downloads/rutice/NicoJK/NicoJK_rev.13.zip 
       リリース http://toro.2ch.net/test/read.cgi/avi/1330008877/65
       
-      rev.13改造 再生対応改造版 修正8
-        http://www1.axfc.net/uploader/Sc/so/431952
-        リリース http://toro.2ch.net/test/read.cgi/avi/1330008877/340
+      rev.13改造 再生対応改造版 修正13
+        http://www1.axfc.net/uploader/so/2918579
+        リリース http://toro.2ch.net/test/read.cgi/avi/1330008877/523
 
 ・TVCaptionMod2
     Ver1.6r2 http://www1.axfc.net/uploader/so/2926591
