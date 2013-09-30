@@ -7,6 +7,7 @@
 
 ★TS関連ソフトまとめ
 ・TVTest
+	Ver0.8.1- https://github.com/DBCTRADO/TVTest
     Ver0.8.0 http://www1.axfc.net/uploader/so/2637448
     Ver0.7.23 http://www1.axfc.net/uploader/so/2598647
       ソース http://www1.axfc.net/uploader/so/2665362
@@ -69,19 +70,19 @@
     http://ux.getuploader.com/PX_W3PE/download/18/up0967.zip
 
 ・TTRec
-    Ver1.0 http://www1.axfc.net/uploader/so/2951428
-      リリース http://www.logsoku.com/r/avi/1370037105/953
+    Ver1.1 http://www1.axfc.net/uploader/so/3045369
+      リリース http://www.logsoku.com/r/avi/1379863760/855
 
 ・tsrenamec
     http://www1.axfc.net/uploader/so/278070&key=capusb
 
 ★Diffまとめ
+<!--
 ■TVTest0.8.0関連
   ・まとめ
       http://www.logsoku.com/r/avi/1370037105/93
 
   ・以下はメンテナンス出来ないので参考程度に
-<!--
   ・録画時スクランブル解除
       http://logsoku.com/thread/toro.2ch.net/avi/1347887793/811
       http://www2.wazoku.net/2sen/dtvvup/source/dtvengine.diff.txt
