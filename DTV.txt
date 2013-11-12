@@ -42,7 +42,7 @@
       リリース http://www.logsoku.com/r/avi/1370037105/240
 
 ・TsTimeKeeper
-    Ver3.5.17.1 http://www1.axfc.net/uploader/so/2836462.zip
+    Ver3.6.17.1 http://www1.axfc.net/uploader/so/2836462.zip
       リリース http://toro.2ch.net/test/read.cgi/avi/1358933709/203
 
 ・TsSplitter
