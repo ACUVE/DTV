@@ -7,7 +7,7 @@
 
 ★TS関連ソフトまとめ
 ・TVTest
-	Ver0.8.1- https://github.com/DBCTRADO/TVTest
+    Ver0.8.1- https://github.com/DBCTRADO/TVTest
     Ver0.8.0 http://www1.axfc.net/uploader/so/2637448
     Ver0.7.23 http://www1.axfc.net/uploader/so/2598647
       ソース http://www1.axfc.net/uploader/so/2665362
@@ -42,8 +42,8 @@
       リリース http://www.logsoku.com/r/avi/1370037105/240
 
 ・TsTimeKeeper
-    Ver3.6.17.1 http://www1.axfc.net/uploader/so/2836462.zip
-      リリース http://toro.2ch.net/test/read.cgi/avi/1358933709/203
+    Ver3.6.17.2 http://www1.axfc.net/u/3094258
+      リリース http://toro.2ch.net/test/read.cgi/avi/1358933709/825
 
 ・TsSplitter
     Ver1.28 http://www1.axfc.net/uploader/so/2649991
