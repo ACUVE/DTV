@@ -42,7 +42,7 @@
       リリース http://www.logsoku.com/r/avi/1370037105/240
 
 ・TsTimeKeeper
-    Ver3.8.20.0 http://www1.axfc.net/u/3158393
+    Ver3.8.20.1 http://www1.axfc.net/u/3215851
 
 ・TsSplitter
     Ver1.28 http://www1.axfc.net/uploader/so/2649991
@@ -75,38 +75,6 @@
 ・tsrenamec
     http://www1.axfc.net/uploader/so/278070&key=capusb
 
-★Diffまとめ
-<!--
-■TVTest0.8.0関連
-  ・まとめ
-      http://www.logsoku.com/r/avi/1370037105/93
-
-  ・以下はメンテナンス出来ないので参考程度に
-  ・録画時スクランブル解除
-      http://logsoku.com/thread/toro.2ch.net/avi/1347887793/811
-      http://www2.wazoku.net/2sen/dtvvup/source/dtvengine.diff.txt
-      
-  ・Windows8 Microsoft DTV-DVD Video Decoder有効化
-      http://logsoku.com/thread/toro.2ch.net/avi/1350812775/836
-      http://www2.wazoku.net/2sen/dtvvup/source/mediaviewer.diff.txt
-
-  ・EPG番組表の表示時間帯を日付を変えても引き継ぐ
-      http://www1.axfc.net/uploader/so/2665685
-      http://logsoku.com/thread/toro.2ch.net/avi/1352121575/92
-
-  ・ロゴ更新バグ修正
-      http://logsoku.com/thread/toro.2ch.net/avi/1353575623/217
-
-  ・TvtPlay使用時のデッドロック及び長時間フリーズ回避
-      http://www1.axfc.net/uploader/Sc/so/381174
-      http://logsoku.com/thread/toro.2ch.net/avi/1348364114/17
-
-  ・BonCasClient関連修正
-      http://logsoku.com/thread/toro.2ch.net/avi/1353575623/595
--->
-      
-■Diff適用後のハッシュ値メモ
-  http://logsoku.com/thread/toro.2ch.net/avi/1353575623/875
 
 ■EpgDataCap_Bon関連
   ・最近のEpgTimer関連のDiffが全く追えてない
