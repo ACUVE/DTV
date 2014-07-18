@@ -18,7 +18,7 @@
 
 ・Marumo ISDB Splitter
     ウェブサイト http://www.marumo.ne.jp/
-    Ver0.2.19 http://www.marumo.ne.jp/junk/isdbsplitter-0.2.19.lzh
+    Ver0.2.25 http://www.marumo.ne.jp/junk/isdbsplitter-0.2.25.lzh
     
 ・TvtPlay
     Ver2.0 http://www1.axfc.net/uploader/Sc/so/381180
