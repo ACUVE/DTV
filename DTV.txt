@@ -8,9 +8,6 @@
 ★TS関連ソフトまとめ
 ・TVTest
     Ver0.8.1- https://github.com/DBCTRADO/TVTest
-    Ver0.8.0 http://www1.axfc.net/uploader/so/2637448
-    Ver0.7.23 http://www1.axfc.net/uploader/so/2598647
-      ソース http://www1.axfc.net/uploader/so/2665362
 
 ・EpgDataCapBon
     Ver10.66 http://www1.axfc.net/uploader/so/2476603
